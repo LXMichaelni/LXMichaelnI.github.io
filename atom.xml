@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-09T01:17:15.607Z</updated>
+  <updated>2023-03-09T01:29:29.990Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>将网站架设在github上</title>
     <link href="http://example.com/2023/03/09/deploy-on-github/"/>
     <id>http://example.com/2023/03/09/deploy-on-github/</id>
     <published>2023-03-09T01:17:15.607Z</published>
-    <updated>2023-03-09T01:17:15.607Z</updated>
+    <updated>2023-03-09T01:29:29.990Z</updated>
     
+    <content type="html"><![CDATA[<p>查了2个多小时的方法，终于把网站搭载在github上面了，从现在开始网站能通过网络访问了！</p><p>网站git上传命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d -g </span><br></pre></td></tr></table></figure><h3 id="参考文章："><a href="#参考文章：" class="headerlink" title="参考文章："></a>参考文章：</h3><p><a href="https://www.silenttwice.com/how-to-deploy-and-modify-the-local-hexo-source-files-after-they-are-deployed-to-github-pages/">https://www.silenttwice.com/how-to-deploy-and-modify-the-local-hexo-source-files-after-they-are-deployed-to-github-pages/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;查了2个多小时的方法，终于把网站搭载在github上面了，从现在开始网站能通过网络访问了！&lt;/p&gt;
+&lt;p&gt;网站git上传命令：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pr</summary>
+      
     
     
     
