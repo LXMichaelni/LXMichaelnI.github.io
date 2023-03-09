@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-09T01:34:01.182Z</updated>
+  <updated>2023-03-09T01:43:01.223Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2023/03/09/deploy-on-github/"/>
     <id>http://example.com/2023/03/09/deploy-on-github/</id>
     <published>2023-03-09T01:17:15.607Z</published>
-    <updated>2023-03-09T01:34:01.182Z</updated>
+    <updated>2023-03-09T01:43:01.223Z</updated>
     
-    <content type="html"><![CDATA[<p>查了2个多小时的方法，终于把网站搭载在github上面了，从现在开始网站能通过网络访问了！</p><p>网站git上传命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d -g </span><br></pre></td></tr></table></figure><p>github仓库默认的是main分支，所以会导致出现两个分支<br>记得把github仓库的默认分支从main改成master，不然更新不了网站</p><h3 id="参考文章："><a href="#参考文章：" class="headerlink" title="参考文章："></a>参考文章：</h3><p><a href="https://www.silenttwice.com/how-to-deploy-and-modify-the-local-hexo-source-files-after-they-are-deployed-to-github-pages/">https://www.silenttwice.com/how-to-deploy-and-modify-the-local-hexo-source-files-after-they-are-deployed-to-github-pages/</a></p>]]></content>
+    <content type="html"><![CDATA[<p>查了2个多小时的方法，终于把网站搭载在github上面了，从现在开始网站能通过网络访问了！</p><p>网站git上传命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d -g </span><br></pre></td></tr></table></figure><p>github仓库默认的是main分支，所以会导致出现两个分支<br>记得把github仓库的默认分支从main改成master，不然更新不了网站<br>更新会稍微滞后一点</p><h3 id="参考文章："><a href="#参考文章：" class="headerlink" title="参考文章："></a>参考文章：</h3><p><a href="https://www.silenttwice.com/how-to-deploy-and-modify-the-local-hexo-source-files-after-they-are-deployed-to-github-pages/">https://www.silenttwice.com/how-to-deploy-and-modify-the-local-hexo-source-files-after-they-are-deployed-to-github-pages/</a><br><a href="https://blog.csdn.net/Lu_xiuyuan/article/details/112056997">https://blog.csdn.net/Lu_xiuyuan/article/details/112056997</a></p>]]></content>
     
     
       
